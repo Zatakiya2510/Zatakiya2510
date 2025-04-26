@@ -24,7 +24,7 @@ Database: I design and manage scalable, efficient data architectures with MongoD
 🌍 Let’s Build Something Amazing Together!
 I’m always open to new opportunities and collaborations. Let’s discuss how I can contribute to your next project, whether you need a responsive web app, a robust backend, or just a reliable development partner.
 
-📧 Email: abhishek@example.com
+📧 Email: abhishekzatakiya25102004@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/zatakiya-abhishek-426087252/
 
 Let’s transform your ideas into exceptional digital experiences! 🚀
